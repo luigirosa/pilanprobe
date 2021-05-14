@@ -14,3 +14,8 @@ RaspberryPI 4 LAN probe
 ## Procedure
  * Connect the microSD to a PC
  * Install Raspberry PI Imager and write the standard Raspberry OS image (with desktop) to the SD 
+ * Extract the microSD card and insert again in the PC
+ * In the boot partition (mounted as root by Windows, is the partition with `start.elf` file) create an empty file named `ssh`
+ * Eject the microSD, put it on Raspberry and boot the device connected to the network, get the IP address from DHCP server
+ * Open a ssh session with the Raspberry, username `pi`, pass `raspberry`
+ * 
