@@ -10,3 +10,7 @@ RaspberryPI 4 LAN probe
 ## Software 
  * [Raspbian](https://www.raspberrypi.org/software/)
  * [LCD driver](https://github.com/goodtft/LCD-show)
+
+## Procedure
+ * Connect the microSD to a PC
+ * Install Raspberry PI Imager and write the standard Raspberry OS image (with desktop) to the SD 
