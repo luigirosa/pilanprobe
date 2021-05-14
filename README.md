@@ -19,3 +19,4 @@ RaspberryPI 4 LAN probe
  * Eject the microSD, put it on Raspberry and boot the device connected to the network, get the IP address from DHCP server
  * Open a ssh session with the Raspberry, username `pi`, pass `raspberry`
  * Update the OS with `sudo apt update` and then `sudo apt full-upgrade` and reboot the device
+ * Install the touch screen driver for MHS-3.5” RPi Display(MHS3528) [Documentation](http://www.lcdwiki.com/MHS-3.5inch_RPi_Display) 
