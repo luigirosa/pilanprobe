@@ -18,4 +18,4 @@ RaspberryPI 4 LAN probe
  * In the boot partition (mounted as root by Windows, is the partition with `start.elf` file) create an empty file named `ssh`
  * Eject the microSD, put it on Raspberry and boot the device connected to the network, get the IP address from DHCP server
  * Open a ssh session with the Raspberry, username `pi`, pass `raspberry`
- * Update the OS with `sudo apt update` and then `sudo apt full-upgrade`
+ * Update the OS with `sudo apt update` and then `sudo apt full-upgrade` and reboot the device
