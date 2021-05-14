@@ -20,3 +20,8 @@ RaspberryPI 4 LAN probe
  * Open a ssh session with the Raspberry, username `pi`, pass `raspberry`
  * Update the OS with `sudo apt update` and then `sudo apt full-upgrade` and reboot the device
  * Install the touch screen driver for MHS-3.5” RPi Display(MHS3528) [Documentation](http://www.lcdwiki.com/MHS-3.5inch_RPi_Display) 
+ * sudo `raspi-config`: 
+    8->Update
+    1->S7 enable spalsh screen
+    5->L2->None of the above->UTC
+    
