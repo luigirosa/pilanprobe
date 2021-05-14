@@ -1,2 +1,2 @@
 # pilanprobe
-RaspberriPI LAN probe
+RaspberryPI 4 LAN probe
