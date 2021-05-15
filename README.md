@@ -27,4 +27,5 @@ RaspberryPI 4 LAN probe
    * 5->L2->None of the above->UTC
  * Edit `/home/pi/.config/libfm/libfm.conf` and set `quick_exec=1` under `config` section
  * Install some additional packages: `sudo apt-get install mc tshark gawk`
- * Create directory `~/.config/autostart`
+ * Put LLDPi.desktop file in `~/Desktop`
+ * Create directory `~/.config/autostart` and `ln -s /home/pi/Desktop/LLDPi.desktop /home/pi/.config/autostart/LLDPi.desktop`
