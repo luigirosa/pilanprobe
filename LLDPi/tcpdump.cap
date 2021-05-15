@@ -1,0 +1,50 @@
+10:03:26.612199 LLDP, length 244
+	Chassis ID TLV (1), length 7
+	  Subtype MAC address (4): c8:cb:b8:3e:62:80 (oui Unknown)
+	  0x0000:  04c8 cbb8 3e62 80
+	Port ID TLV (2), length 3
+	  Subtype Local (7): 13
+	  0x0000:  0731 33
+	Time to Live TLV (3), length 2: TTL 120s
+	  0x0000:  0078
+	Port Description TLV (4), length 2: 13
+	  0x0000:  3133
+	System Name TLV (5), length 4: sw01
+	  0x0000:  7377 3031
+	System Description TLV (6), length 156
+	  HP J9574A 3800-48G-PoE+-4SFP+ Switch, revision KA.16.04.0022, ROM KA.15.10 (/ws/swbuildm/rel_ukiah_qaoff/code/build/tam(swbuildm_rel_ukiah_qaoff_rel_ukiah))
+	  0x0000:  4850 204a 3935 3734 4120 3338 3030 2d34
+	  0x0010:  3847 2d50 6f45 2b2d 3453 4650 2b20 5377
+	  0x0020:  6974 6368 2c20 7265 7669 7369 6f6e 204b
+	  0x0030:  412e 3136 2e30 342e 3030 3232 2c20 524f
+	  0x0040:  4d20 4b41 2e31 352e 3130 2028 2f77 732f
+	  0x0050:  7377 6275 696c 646d 2f72 656c 5f75 6b69
+	  0x0060:  6168 5f71 616f 6666 2f63 6f64 652f 6275
+	  0x0070:  696c 642f 7461 6d28 7377 6275 696c 646d
+	  0x0080:  5f72 656c 5f75 6b69 6168 5f71 616f 6666
+	  0x0090:  5f72 656c 5f75 6b69 6168 2929
+	System Capabilities TLV (7), length 4
+	  System  Capabilities [Bridge, Router] (0x0014)
+	  Enabled Capabilities [Bridge, Router] (0x0014)
+	  0x0000:  0014 0014
+	Management Address TLV (8), length 12
+	  Management Address length 5, AFI IPv4 (1): 10.19.67.204
+	  Interface Index Interface Numbering (2): 0
+	  0x0000:  0501 0a13 43cc 0200 0000 0000
+	Organization specific TLV (127), length 6: OUI Ethernet bridged (0x0080c2)
+	  Port VLAN Id Subtype (1)
+	    port vlan id (PVID): 100
+	  0x0000:  0080 c201 0064
+	Organization specific TLV (127), length 9: OUI IEEE 802.3 Private (0x00120f)
+	  MAC/PHY configuration/status Subtype (1)
+	    autonegotiation [supported, enabled] (0x03)
+	    PMD autoneg capability [10BASE-T hdx, 10BASE-T fdx, 100BASE-TX hdx, 100BASE-TX fdx, 1000BASE-T fdx] (0x6c01)
+	    MAU type 1000BASET fdx (0x001e)
+	  0x0000:  0012 0f01 036c 0100 1e
+	Organization specific TLV (127), length 7: OUI IEEE 802.3 Private (0x00120f)
+	  Power via MDI Subtype (2)
+	    MDI power support [PSE, supported, enabled], power pair signal, power class class0
+	  0x0000:  0012 0f02 0701 01
+	Organization specific TLV (127), length 6: OUI Unknown (0x0016b9)
+	  0x0000:  0016 b902 0001
+	End TLV (0), length 0

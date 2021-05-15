@@ -1,0 +1,33 @@
+
+Management Address
+10.19.67.204
+
+System Name
+sw01
+
+Port ID
+13
+
+VLAN 100 Untagged
+
+System Description
+HP J9574A 3800-48G-PoE+-4SFP+ Switch, revision KA.16.04.0022, ROM KA.15.10 (/ws/swbuildm/rel_ukiah_qaoff/code/build/tam(swbuildm_rel_ukiah_qaoff_rel_ukiah))
+
+VLANs captured:  - Tagged
+
+Raspberry IP Address
+10.19.67.121
+
+Speed
+1000Mb/s
+
+Default Gateway
+10.19.67.254
+
+DNS Servers
+10.19.67.254
+1.1.1.1
+8.8.8.8
+
+DATE
+Sat 15 May 10:03:28 UTC 2021
