@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=LLDPi
+Comment=RUN LLDPi Script
+Exec=/home/pi/LLDPi/LLDPiGUI.py
+Terminal=true
+Type=Application
