@@ -29,6 +29,7 @@ RaspberryPI 4 LAN probe
  * Install some additional packages: `sudo apt-get install mc tshark gawk`
  * Put LLDPi.desktop file in `~/Desktop`
  * Create directory `~/.config/autostart` and `ln -s /home/pi/Desktop/LLDPi.desktop /home/pi/.config/autostart/LLDPi.desktop`
+ * Put the LLDPi folder in pi home directory
 
 ## Helpful links
  * [LLDPi](https://www.instructables.com/LLDPi/)
